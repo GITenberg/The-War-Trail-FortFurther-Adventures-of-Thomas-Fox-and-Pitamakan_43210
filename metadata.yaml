@@ -1,0 +1,40 @@
+_repo: The-War-Trail-FortFurther-Adventures-of-Thomas-Fox-and-Pitamakan_43210
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Varian, George
+    alias: Varian, George Edmund
+    birthdate: 1865
+    deathdate: 1923
+    gutenberg_agent_id: '31657'
+    url: http://www.gutenberg.org/2009/agents/31657
+covers:
+- cover_type: archival
+  image_path: 43210-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schultz, James Willard
+    aliases:
+    - Spotted Robe
+    - Schultz, J. W. (James Willard)
+    - Apikuni
+    - Far Off White Robe
+    birthdate: 1859
+    deathdate: 1947
+    gutenberg_agent_id: '41587'
+    url: http://www.gutenberg.org/2009/agents/41587
+    wikipedia: http://en.wikipedia.org/wiki/James_Willard_Schultz
+description: ''
+gutenberg_issued: '2013-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Indians of North America -- Fiction'
+title: 'The War-Trail Fort: Further Adventures of Thomas Fox and Pitamakan'
+url: http://www.gutenberg.org/ebooks/43210
